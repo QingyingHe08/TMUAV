@@ -3,7 +3,10 @@
 This repository provides the datasets used in the paper  
 **“Scalable management of unmanned aerial vehicle traffic in dense urban low-altitude airspace”**,  
 
-The datasets support the empirical analyses in the *Discussion* section, including:
+The study develops a real-time, market-based framework for allocating low-altitude airspace among competing UAV operators and evaluates its performance using large-scale urban airspace scenarios and nationwide logistics data from China. The empirical analyses illustrate the efficiency and accessibility gains enabled by systematic UAV traffic management.
+
+
+The datasets support the empirical analyses in the *Results* and *Discussion* section, including:
 1. Efficiency gains of UAV deployment in high-demand urban logistics
 2. First- and last-mile delivery performance across cities
 3. Accessibility and equity impacts in remote and mountainous regions
@@ -53,5 +56,17 @@ For each origin–destination pair, UAV travel time is estimated using the same 
 - `destination_x, destination_y`: encrypted destination location  
 - `delivery_type`: first-mile or last-mile  
 - `courier_time`: observed delivery time  
-- `uav_time_est`: estimated UAV travel time  
+- `uav_time_est`: estimated UAV travel time
 
+## How to Request Access
+
+If you wish to access the code and data, please send an application email to: **qingyinghe97@gmail.com**
+
+In your email, please:
+- Clearly state your **intended academic use**
+- Briefly describe your **research project or purpose**
+
+⚠️ **Commercial use is strictly prohibited.**
+
+All requests will be reviewed by the authors.  
+Please note that responses may not be immediate; kindly avoid sending duplicate emails.
