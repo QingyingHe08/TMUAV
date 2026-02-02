@@ -21,7 +21,7 @@ Each dataset corresponds to a specific empirical analysis reported in the paper.
 
 ### Description
 
-This dataset contains **568,545 anonymized on-demand delivery trips** from Meituan in a third-tier northern Chinese city.  
+This dataset contains **anonymized on-demand delivery trips** from Meituan in a third-tier northern Chinese city.  
 The data include encrypted pickup–dropoff locations and detailed timestamps of realized courier deliveries.
 
 To evaluate potential UAV performance, UAV delivery analogs are constructed by:
@@ -35,7 +35,7 @@ To evaluate potential UAV performance, UAV delivery analogs are constructed by:
 
 ### Description
 
-This dataset includes more than **7.5 million anonymized parcel delivery records** from Cainiao, covering five Chinese cities:
+This dataset includes **anonymized parcel delivery records** from Cainiao, covering five Chinese cities:
 - Shanghai
 - Hangzhou
 - Jilin
