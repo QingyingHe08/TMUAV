@@ -12,14 +12,12 @@ All datasets are anonymized and processed for research and reproducibility purpo
 
 ---
 
-Each folder corresponds to a specific empirical analysis reported in the paper.
+Each dataset corresponds to a specific empirical analysis reported in the paper.
 
 
 ## 1. Urban On-Demand Delivery Dataset (Meituan)
 
-**Folder:** `data/meituan_urban_delivery/`  
 **Used in:** Discussion – *Efficiency gains from UAV deployment in high-demand logistics*  
-**Related figures:** Fig. 3 (a)–(c)
 
 ### Description
 
@@ -33,9 +31,7 @@ To evaluate potential UAV performance, UAV delivery analogs are constructed by:
 
 ## 2. First- and Last-Mile Delivery Dataset (Cainiao)
 
-**Folder:** `data/cainiao_first_last_mile/`  
 **Used in:** Discussion – *Efficiency gains from UAV deployment in logistics*  
-**Related figures:** Fig. 4
 
 ### Description
 
